@@ -1,4 +1,4 @@
-package com.hcsc.pacr.utils;
+package com.hcsc.pacr.common.utils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
